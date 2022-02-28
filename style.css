@@ -14,10 +14,14 @@ main {
 	justify-content: space-evenly;
 }
 footer{
-	border-style: GrayText;
+	bottom: 0px;
 	border-bottom-color: black;
+	background-color: gray;
 }
 header{
-	border-style: GrayText;
 	border-bottom-color: black;
+	background-color: gray;
+}
+html{
+	position: absolute;
 }
