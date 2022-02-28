@@ -15,7 +15,9 @@ main {
 }
 footer{
 	border-style: GrayText;
+	border-bottom-color: black;
 }
 header{
 	border-style: GrayText;
+	border-bottom-color: black;
 }
