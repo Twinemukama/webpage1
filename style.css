@@ -14,8 +14,8 @@ main {
 	justify-content: space-evenly;
 }
 footer{
-	background-color: WindowFrame;
+	border-style: GrayText;
 }
 header{
-	background-color: WindowFrame;
+	border-style: GrayText;
 }
