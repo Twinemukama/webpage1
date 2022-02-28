@@ -16,12 +16,9 @@ main {
 footer{
 	bottom: 0px;
 	border-bottom-color: black;
-	background-color: gray;
+	background-color: #f4f4f4;
 }
 header{
 	border-bottom-color: black;
-	background-color: gray;
-}
-html{
-	position: absolute;
+	background-color: #f4f4f4;
 }
