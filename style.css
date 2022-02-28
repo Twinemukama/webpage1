@@ -13,3 +13,9 @@ main {
 	flex-direction: column;
 	justify-content: space-evenly;
 }
+footer{
+	background-color: white-space;
+}
+header{
+	background-color: white-space;
+}
